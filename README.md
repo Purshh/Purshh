@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Current work
-[514dye](https://github.com/Purshh/514dye) , A community-driven platform to manage games, track player rankings, run tournaments, and enable governance through voting and elections within the league.
+[514dye](https://github.com/Purshh/514dye), A community-driven platform to manage games, track player rankings, run tournaments, and enable governance through voting and elections within the league.
