@@ -1,4 +1,4 @@
-# Hi there 👋
+# Welcome
 
 <!--
 **Purshh/Purshh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 ## Current work
 [514dye](https://github.com/Purshh/514dye), A community-driven platform to manage games, track player rankings, run tournaments, and enable governance through voting and elections within the league.
+
+[514dye](https://github.com/Purshh/514dye)
